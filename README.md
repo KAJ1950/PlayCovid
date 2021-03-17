@@ -1,2 +1,2 @@
 PlayCovid
-<A href = PlayCovid.html> link </A>
+<A href = index.html> link </A>
